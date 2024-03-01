@@ -37,7 +37,7 @@ function init() {
     handleSchoologyURL();
   }
   else {
-    alert("Bruh run this shit on a edpuzzle on schoology you schmuck");
+    alert("Bruh run this shit on a edpuzzle on schoology you schmuck- Simeon");
   }
 }
 
